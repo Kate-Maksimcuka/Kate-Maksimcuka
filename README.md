@@ -9,11 +9,11 @@ My focus is on beginner-friendly but complete projects that show how data moves 
 
 I'm currently building three practical data projects:
 
-| Project | Focus | Tools |
-| --- | --- | --- |
-| AWS + Python ETL Pipeline | Extract, clean and store data | Python, pandas, AWS S3, Athena |
-| dbt Sales Analytics | Transform raw data into analytics tables | SQL, dbt, data modelling, tests |
-| Data Jobs Dashboard | Analyse junior data job postings | Python, pandas, visualisation |
+| Status | Project | Focus | Tools |
+| --- | --- | --- | --- |
+| Completed | [AWS + Python ETL Pipeline](https://github.com/Kate-Maksimcuka/aws-python-etl-pipeline) | Extract, clean, store and query data | Python, pandas, AWS S3, Athena |
+| In progress | [dbt Sales Analytics](https://github.com/Kate-Maksimcuka/dbt-sales-analytics) | Transform raw data into analytics tables | SQL, dbt, data modelling, tests |
+| Planned | [Data Jobs Dashboard](https://github.com/Kate-Maksimcuka/data-jobs-dashboard) | Analyse junior data job postings | Python, pandas, visualisation |
 
 ## Tools I'm Learning
 
@@ -26,7 +26,7 @@ I'm currently building three practical data projects:
 ## Featured Projects
 
 ### AWS + Python ETL Pipeline
-A simple ETL project that extracts data, cleans it with Python, stores the output and creates summary charts.
+A beginner ETL project that extracts exchange-rate data from a public API, transforms nested JSON into clean CSV files, creates visualisations, uploads processed data to Amazon S3, and queries the clean dataset with Athena.
 
 ### dbt Sales Analytics
 A beginner analytics engineering project using dbt to transform raw sales data into clean reporting tables.
