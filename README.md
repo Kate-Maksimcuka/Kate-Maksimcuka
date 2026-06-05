@@ -12,7 +12,7 @@ I'm currently building three practical data projects:
 | Status | Project | Focus | Tools |
 | --- | --- | --- | --- |
 | Completed | [AWS + Python ETL Pipeline](https://github.com/Kate-Maksimcuka/aws-python-etl-pipeline) | Extract, clean, store and query data | Python, pandas, AWS S3, Athena |
-| In progress | [dbt Sales Analytics](https://github.com/Kate-Maksimcuka/dbt-sales-analytics) | Transform raw data into analytics tables | SQL, dbt, data modelling, tests |
+| Completed | [dbt Sales Analytics](https://github.com/Kate-Maksimcuka/dbt-sales-analytics) | Transform raw data into analytics tables | SQL, dbt, DuckDB, tests |
 | Planned | [Data Jobs Dashboard](https://github.com/Kate-Maksimcuka/data-jobs-dashboard) | Analyse junior data job postings | Python, pandas, visualisation |
 
 ## Tools I'm Learning
@@ -29,7 +29,7 @@ I'm currently building three practical data projects:
 A beginner ETL project that extracts exchange-rate data from a public API, transforms nested JSON into clean CSV files, creates visualisations, uploads processed data to Amazon S3, and queries the clean dataset with Athena.
 
 ### dbt Sales Analytics
-A beginner analytics engineering project using dbt to transform raw sales data into clean reporting tables.
+A beginner analytics engineering project using dbt, SQL and DuckDB to transform raw coffee shop sales data into clean reporting tables, run data quality tests and generate charts from final marts.
 
 ### Data Jobs Dashboard
 A dashboard-style analysis of junior data job postings, showing common skills, role types and trends.
