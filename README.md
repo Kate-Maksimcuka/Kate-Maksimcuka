@@ -13,7 +13,7 @@ I'm currently building three practical data projects:
 | --- | --- | --- | --- |
 | Completed | [AWS + Python ETL Pipeline](https://github.com/Kate-Maksimcuka/aws-python-etl-pipeline) | Extract, clean, store and query data | Python, pandas, AWS S3, Athena |
 | Completed | [dbt Sales Analytics](https://github.com/Kate-Maksimcuka/dbt-sales-analytics) | Transform raw data into analytics tables | SQL, dbt, DuckDB, tests |
-| Completed | [Data Jobs Dashboard](https://github.com/Kate-Maksimcuka/data-jobs-dashboard) | Analyse junior data job postings | Python, pandas, visualisation |
+| Completed | [Data Jobs Analysis Dashboard](https://github.com/Kate-Maksimcuka/data-jobs-analysis-dashboard) | Analyse junior data job postings | Python, pandas, visualisation |
 
 ## Tools I'm Learning
 
@@ -31,8 +31,8 @@ A beginner ETL project that extracts exchange-rate data from a public API, trans
 ### dbt Sales Analytics
 A beginner analytics engineering project using dbt, SQL and DuckDB to transform raw coffee shop sales data into clean reporting tables, run data quality tests and generate charts from final marts.
 
-### Data Jobs Dashboard
-A dashboard-style analysis of junior data job postings, showing common skills, role categories, work patterns, salary differences and visual insights.
+### Data Jobs Analysis Dashboard
+A dashboard-style analysis of junior data job postings, showing common skills, role categories, work patterns, salary differences, descriptive statistics and visual insights.
 
 ## Background
 
