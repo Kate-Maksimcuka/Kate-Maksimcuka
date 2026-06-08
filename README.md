@@ -1,6 +1,6 @@
 # Hi, I'm Kate 👋
 
-I'm an aspiring **Data Engineer / Data Analyst** based in Manchester, UK.  
+I'm an aspiring **Data Engineer** based in Manchester, UK.  
 I'm transitioning into data roles and building practical projects with **Python, SQL, AWS, dbt and data visualisation**.
 
 My focus is on beginner-friendly but complete projects that show how data moves from raw files or APIs into cleaned datasets, analytics models and clear visual insights.
